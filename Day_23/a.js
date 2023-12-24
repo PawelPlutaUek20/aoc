@@ -15,7 +15,7 @@ const path = ".";
 const forest = "#";
 
 /** PARSE INPUT */
-const input = Bun.file("Day_22/input.txt");
+const input = Bun.file("Day_23/input.txt");
 const text = await input.text();
 
 /** @type {string[][]} */
