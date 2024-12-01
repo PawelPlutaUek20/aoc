@@ -10,12 +10,6 @@ import (
 	"strings"
 )
 
-func check(err error) {
-	if err != nil {
-		log.Fatal(err)
-	}
-}
-
 func A() {
 	file, _ := os.Open("Day_01/input.txt")
 	defer file.Close()
