@@ -1,9 +1,9 @@
 package main
 
 import (
-	"aod.pawelplutauek20.pl/Day_04"
+	"aod.pawelplutauek20.pl/Day_05"
 )
 
 func main() {
-	Day_04.B()
+	Day_05.A()
 }
