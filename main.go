@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	Day_13.A()
+	Day_13.B()
 }
