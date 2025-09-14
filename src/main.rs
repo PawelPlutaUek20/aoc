@@ -7,4 +7,6 @@ fn main() {
     solutions::day02::solve();
     println!("# day 3");
     solutions::day03::solve();
+    println!("# day 4");
+    solutions::day04::solve();
 }
