@@ -1,6 +1,6 @@
 use aoc::solutions;
 
 fn main() {
-    println!("# day 6");
-    solutions::day06::solve();
+    println!("# day 7");
+    solutions::day07::solve();
 }
